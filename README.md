@@ -3,7 +3,7 @@ Our goal is to analyze and investigate a school attendance dataset for any insig
  
 You can download the data set using this link: https://tinyurl.com/attandancecsv 
 
-# Step 1:
+### Step 1:
  Use pandas library to read the data set into a data frame. [5] 
  
 # Step 2:
