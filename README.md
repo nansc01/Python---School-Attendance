@@ -3,10 +3,10 @@ Our goal is to analyze and investigate a school attendance dataset for any insig
  
 You can download the data set using this link: https://tinyurl.com/attandancecsv 
 
-## #Step 1:
+# Step 1:
  Use pandas library to read the data set into a data frame. [5] 
  
- #Step 2:
+# Step 2:
  We will not be using the SchoolYear column -- drop the column from your data frame. [15] 
  
 The data set contains information for each school, for a range of days, number of students attended, absent and released. Released are those who were absent with permission from school. Total number of enrolled students on that day is basically the sum of attended, absent and released students.  
